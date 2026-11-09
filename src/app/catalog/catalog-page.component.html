@@ -1,0 +1,38 @@
+<main id="top">
+  <section class="catalog-section" id="programs">
+    <div class="page-heading">
+      <div>
+        <p class="eyebrow">SWITZERLAND · CAS &amp; MAS</p>
+        <h1>Find a continuing education program</h1>
+        <p class="page-description">Search CAS and MAS programs at Swiss higher-education institutions. Listings are collected automatically and link to provider pages.</p>
+      </div>
+      <div class="catalog-total"><strong>{{ catalog.programs().length }}</strong><span>catalog entries</span></div>
+    </div>
+
+    <app-catalog-notice [report]="catalog.report()" />
+
+    <div class="catalog-layout">
+      <app-program-filters
+        [filters]="catalog.filters()"
+        [subjects]="catalog.subjects()"
+        [providers]="catalog.providers()"
+        (filtersChange)="catalog.updateFilters($event)"
+        (clear)="catalog.clearFilters()"
+      />
+      <app-program-results
+        [programs]="catalog.displayedPrograms()"
+        [total]="catalog.filteredPrograms().length"
+        [loading]="catalog.loading()"
+        [error]="catalog.error()"
+        [sortBy]="catalog.sortBy()"
+        (sortChange)="catalog.setSort($event)"
+        (showMore)="catalog.showMore()"
+        (clearFilters)="catalog.clearFilters()"
+      />
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    Program details can change. Confirm dates, fees, and availability with the institution before applying.
+  </footer>
+</main>

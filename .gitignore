@@ -1,0 +1,12 @@
+.angular/
+.idea/
+.playwright-mcp/
+.venv/
+node_modules/
+dist/
+out-tsc/
+coverage/
+tmp/
+__pycache__/
+*.py[cod]
+*.log

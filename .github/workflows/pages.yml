@@ -1,0 +1,69 @@
+name: Update catalog and deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 4 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install scraper dependencies
+        run: pip install -r requirements.txt
+      - name: Scrape institutions and programs
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python scripts/scrape_programs.py
+      - name: Test scraper extraction
+        run: python -m unittest discover -s tests -v
+      - name: Validate generated catalog
+        run: python scripts/validate_catalog.py public/data/programs.json
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install frontend dependencies
+        run: npm ci
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Build Angular site
+        run: npx ng build --configuration production --base-href ./
+      - name: Commit refreshed catalog
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/programs.json public/data/scrape-report.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh continuing education catalog"
+            git push
+          fi
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/furtherstudy-ch/browser
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,1100 @@
+{
+  "generatedAt": "2026-11-09T19:57:20Z",
+  "directorySource": "https://www.swissuniversities.ch/en/topics/studying/accredited-swiss-higher-education-institutions",
+  "institutionsDiscovered": 71,
+  "institutionsScanned": 71,
+  "pagesFetched": 991,
+  "paginationPagesFetched": 18,
+  "paginationFindings": [
+    {
+      "provider": "Bern University of Applied Sciences (BFH)",
+      "domain": "bfh.ch",
+      "kind": "load-more-button",
+      "url": "https://bfh.ch/ahb/en",
+      "status": "expanded by search-results-widget"
+    },
+    {
+      "provider": "Bern University of Applied Sciences (BFH)",
+      "domain": "bfh.ch",
+      "kind": "search-results-widget",
+      "url": "https://bfh.ch/ahb/en",
+      "status": "expanded",
+      "pagesFetched": 1
+    },
+    {
+      "provider": "Bern University of Applied Sciences (BFH)",
+      "domain": "bfh.ch",
+      "kind": "load-more-button",
+      "url": "https://bfh.ch/ahb/en/continuing-education/cas",
+      "status": "expanded by search-results-widget"
+    },
+    {
+      "provider": "Bern University of Applied Sciences (BFH)",
+      "domain": "bfh.ch",
+      "kind": "search-results-widget",
+      "url": "https://bfh.ch/ahb/en/continuing-education/cas",
+      "status": "expanded",
+      "pagesFetched": 1
+    },
+    {
+      "provider": "Bern University of Applied Sciences (BFH)",
+      "domain": "bfh.ch",
+      "kind": "load-more-button",
+      "url": "https://bfh.ch/ahb/de/weiterbildung/cas",
+      "status": "expanded by search-results-widget"
+    },
+    {
+      "provider": "Bern University of Applied Sciences (BFH)",
+      "domain": "bfh.ch",
+      "kind": "search-results-widget",
+      "url": "https://bfh.ch/ahb/de/weiterbildung/cas",
+      "status": "expanded",
+      "pagesFetched": 2
+    },
+    {
+      "provider": "PHBern",
+      "domain": "phbern.ch",
+      "kind": "next-link",
+      "url": "https://www.phbern.ch/weiterbildung/weiterbildungssuche?f%5B0%5D=wbk_otype%3Ah&page=1",
+      "status": "followable"
+    },
+    {
+      "provider": "PHBern",
+      "domain": "phbern.ch",
+      "kind": "next-link",
+      "url": "https://www.phbern.ch/weiterbildung/weiterbildungssuche?f%5B0%5D=angebotsgruppen%3A1714&f%5B1%5D=wbk_otype%3Ah&page=1",
+      "status": "followable"
+    },
+    {
+      "provider": "PHBern",
+      "domain": "phbern.ch",
+      "kind": "next-link",
+      "url": "https://www.phbern.ch/weiterbildung/weiterbildungssuche?f%5B0%5D=angebotsgruppen%3A1714&f%5B1%5D=angebotsgruppen%3A4863&f%5B2%5D=wbk_otype%3Ah&page=1",
+      "status": "followable"
+    },
+    {
+      "provider": "Pädagogische Hochschule St. Gallen (PHSG)",
+      "domain": "phsg.ch",
+      "kind": "next-link",
+      "url": "https://www.phsg.ch/de/weiterbildung/gesamtuebersicht?page=1",
+      "status": "followable"
+    },
+    {
+      "provider": "Swiss Federal University for Vocational Education and Training SFUVET",
+      "domain": "sfivet.swiss",
+      "kind": "next-link",
+      "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/presentations?page=1",
+      "status": "followable"
+    },
+    {
+      "provider": "Swiss Federal University for Vocational Education and Training SFUVET",
+      "domain": "sfivet.swiss",
+      "kind": "next-link",
+      "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/presentations?page=2",
+      "status": "followable"
+    },
+    {
+      "provider": "Swiss Federal University for Vocational Education and Training SFUVET",
+      "domain": "sfivet.swiss",
+      "kind": "next-link",
+      "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/presentations?page=3",
+      "status": "followable"
+    },
+    {
+      "provider": "Swiss Federal University for Vocational Education and Training SFUVET",
+      "domain": "sfivet.swiss",
+      "kind": "next-link",
+      "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/presentations?page=4",
+      "status": "followable"
+    },
+    {
+      "provider": "Swiss Federal University for Vocational Education and Training SFUVET",
+      "domain": "sfivet.swiss",
+      "kind": "next-link",
+      "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/presentations?page=5",
+      "status": "followable"
+    },
+    {
+      "provider": "Swiss Federal University for Vocational Education and Training SFUVET",
+      "domain": "sfivet.swiss",
+      "kind": "next-link",
+      "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/presentations?page=6",
+      "status": "followable"
+    },
+    {
+      "provider": "Swiss Federal University for Vocational Education and Training SFUVET",
+      "domain": "sfivet.swiss",
+      "kind": "next-link",
+      "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/projects?field_research_fields_target_id%5B0%5D=630&field_division_target_id%5B0%5D=614&page=1",
+      "status": "followable"
+    },
+    {
+      "provider": "University of Applied Sciences and Arts of Southern Switzerland (SUPSI)",
+      "domain": "supsi.ch",
+      "kind": "supsi-widget",
+      "url": "https://formazionecontinua.supsi.ch/it/catalogocorsi",
+      "status": "expanded",
+      "pagesFetched": 14
+    }
+  ],
+  "programsFound": 658,
+  "partial": 53,
+  "failures": 0,
+  "providers": [
+    {
+      "name": "Accademia Teatro Dimitri (SUPSI)",
+      "domain": "accademiadimitri.ch",
+      "status": "partial",
+      "pagesFetched": 14,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 2,
+      "note": null
+    },
+    {
+      "name": "Bern University of Applied Sciences (BFH)",
+      "domain": "bfh.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 4,
+      "paginationAdapters": [
+        "search-results-widget"
+      ],
+      "paginationFindings": [
+        {
+          "kind": "load-more-button",
+          "url": "https://bfh.ch/ahb/en",
+          "status": "expanded by search-results-widget"
+        },
+        {
+          "kind": "search-results-widget",
+          "url": "https://bfh.ch/ahb/en",
+          "status": "expanded",
+          "pagesFetched": 1
+        },
+        {
+          "kind": "load-more-button",
+          "url": "https://bfh.ch/ahb/en/continuing-education/cas",
+          "status": "expanded by search-results-widget"
+        },
+        {
+          "kind": "search-results-widget",
+          "url": "https://bfh.ch/ahb/en/continuing-education/cas",
+          "status": "expanded",
+          "pagesFetched": 1
+        },
+        {
+          "kind": "load-more-button",
+          "url": "https://bfh.ch/ahb/de/weiterbildung/cas",
+          "status": "expanded by search-results-widget"
+        },
+        {
+          "kind": "search-results-widget",
+          "url": "https://bfh.ch/ahb/de/weiterbildung/cas",
+          "status": "expanded",
+          "pagesFetched": 2
+        }
+      ],
+      "robotsDenied": 0,
+      "programsFound": 34,
+      "note": null
+    },
+    {
+      "name": "Changins VF",
+      "domain": "changins.ch",
+      "status": "partial",
+      "pagesFetched": 9,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "Conservatorio della Svizzera Italiana (CSI)",
+      "domain": "conservatorio.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 18,
+      "note": "https://conservatorio.ch/en/university-of-music/continuing-education/cas/concert-improvisation: HTTP 404; https://conservatorio.ch/en/university-of-music/continuing-education/cas/contemporary-repertoire-conducting: HTTP 404; https://conservatorio.ch/en/university-of-music/continuing-education/cas/elementary-music-education: HTTP 404; https://conservatorio.ch/en/university-of-music/continuing-education/cas/orchestral-studies: HTTP 404"
+    },
+    {
+      "name": "César Ritz Colleges Switzerland",
+      "domain": "cesarritzcolleges.edu",
+      "status": "partial",
+      "pagesFetched": 1,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "Eastern Switzerland University of Applied Sciences (OST)",
+      "domain": "ost.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 10,
+      "note": null
+    },
+    {
+      "name": "ECAL/Ecole cantonale d'art de Lausanne",
+      "domain": "ecal.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 16,
+      "note": null
+    },
+    {
+      "name": "EDHEA",
+      "domain": "ecav.ch",
+      "status": "ok",
+      "pagesFetched": 4,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "EHL Graduate & Executive Education",
+      "domain": "ehl.edu",
+      "status": "partial",
+      "pagesFetched": 11,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "EPFL",
+      "domain": "epfl.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 2,
+      "note": null
+    },
+    {
+      "name": "ETH Zurich",
+      "domain": "ethz.ch",
+      "status": "partial",
+      "pagesFetched": 1,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "Executive Education Masters, Courses & Programmes",
+      "domain": "graduateinstitute.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "Fachhochschule Graubünden",
+      "domain": "fhgr.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 11,
+      "note": null
+    },
+    {
+      "name": "Fernfachhochschule Schweiz, Brig (FFHS)",
+      "domain": "ffhs.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 6,
+      "programsFound": 65,
+      "note": "https://ffhs.ch/en/degree-programmes/continuing-education/cas-advanced-ai-engineering: disallowed by robots.txt; https://ffhs.ch/en/degree-programmes/continuing-education/cas-advanced-cloud-computing: disallowed by robots.txt; https://ffhs.ch/en/degree-programmes/continuing-education/cas-advanced-machine-learning: disallowed by robots.txt; https://ffhs.ch/en/degree-programmes/continuing-education/cas-agentic-web-engineering-1: disallowed by robots.txt"
+    },
+    {
+      "name": "FernUni Schweiz",
+      "domain": "fernuni.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 2,
+      "note": null
+    },
+    {
+      "name": "Franklin Switzerland",
+      "domain": "fus.edu",
+      "status": "ok",
+      "pagesFetched": 3,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "Glion",
+      "domain": "glion.edu",
+      "status": "ok",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 3,
+      "note": null
+    },
+    {
+      "name": "Haute Ecole de Musique de Lausanne – HEMU",
+      "domain": "hemu.ch",
+      "status": "partial",
+      "pagesFetched": 12,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 4,
+      "note": "https://hemu.ch/en/studies/continuing-education-cas-das-diplomas: HTTP 404; https://hemu.ch/cas: HTTP 404"
+    },
+    {
+      "name": "Haute école d'ingénierie et d'architecture Fribourg - HEIA-FR",
+      "domain": "heia-fr.ch",
+      "status": "ok",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 11,
+      "note": null
+    },
+    {
+      "name": "Haute école de gestion Fribourg – HEG-FR",
+      "domain": "heg-fr.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 10,
+      "note": "https://heg-fr.ch/DE/Seiten/HSW-Freiburg.aspx: HTTP 407"
+    },
+    {
+      "name": "Haute école de santé Fribourg",
+      "domain": "heds-fr.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 19,
+      "note": null
+    },
+    {
+      "name": "Haute école de travail social Fribourg – HETS-FR",
+      "domain": "hets-fr.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 10,
+      "note": null
+    },
+    {
+      "name": "Haute école pédagogique du canton de Vaud HEP Vaud",
+      "domain": "hepl.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 3,
+      "note": "https://www.hepl.ch/cas-durabilité: HTTP 404"
+    },
+    {
+      "name": "Haute école pédagogique du Valais | Pädagogische Hochschule Wallis HEP-VS | PH-VS",
+      "domain": "phvs.ch",
+      "status": "partial",
+      "pagesFetched": 1,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": "https://phvs.ch/: redirected outside institution domain"
+    },
+    {
+      "name": "HEIG-VD",
+      "domain": "heig-vd.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 7,
+      "note": null
+    },
+    {
+      "name": "HEP-BEJUNE",
+      "domain": "hep-bejune.ch",
+      "status": "ok",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "HES-SO Fribourg",
+      "domain": "hefr.ch",
+      "status": "partial",
+      "pagesFetched": 3,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": "https://hefr.ch/FR/Pages/default.aspx: HTTP 407"
+    },
+    {
+      "name": "HES-SO Genève",
+      "domain": "hesge.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 13,
+      "note": "https://hesge.ch/hets/formation-continue/formations-postgrade/certificats-cas/cas-hes-so-conjugalites-et-parentalites: HTTP 404; https://hesge.ch/hets/formation-continue/formations-postgrade/certificats-cas/cas-violences-plurielles: HTTP 403; https://hesge.ch/hets/formation-continue/formations-postgrade/certificats-cas/cas-projets-urbains-et-pouvoir-agir: HTTP 404; https://hesge.ch/hets/formation-continue/formations-postgrade/certificats-cas/cas-specialiste-en-insertion-professionnelle: HTTP 404"
+    },
+    {
+      "name": "HES-SO Valais-Wallis",
+      "domain": "hevs.ch",
+      "status": "ok",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 13,
+      "note": null
+    },
+    {
+      "name": "HESAV",
+      "domain": "hesav.ch",
+      "status": "partial",
+      "pagesFetched": 17,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 1,
+      "note": "https://hesav.ch/formation/formation-continue-et-postgrade/conditions-generales-ufc: HTTP 404"
+    },
+    {
+      "name": "HETSL",
+      "domain": "eesp.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 22,
+      "note": null
+    },
+    {
+      "name": "Hochschule für Logopädie Ostschweiz hlo",
+      "domain": "shlr.ch",
+      "status": "partial",
+      "pagesFetched": 2,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": "https://shlr.ch/hlo/die-shlr: HTTP 404"
+    },
+    {
+      "name": "Hochschule für Wirtschaft Zürich (HWZ)",
+      "domain": "fh-hwz.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 308,
+      "note": null
+    },
+    {
+      "name": "Hochschulinstitut IVP NMS",
+      "domain": "nmsbern.ch",
+      "status": "partial",
+      "pagesFetched": 6,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": "https://nmsbern.ch/ivp: redirected outside institution domain"
+    },
+    {
+      "name": "Hochschulinstitut Schaffhausen",
+      "domain": "hochschule-schaffhausen.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 15,
+      "note": null
+    },
+    {
+      "name": "IMD business school for management and leadership courses",
+      "domain": "imd.org",
+      "status": "ok",
+      "pagesFetched": 13,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 1,
+      "note": null
+    },
+    {
+      "name": "Institut et Haute Ecole de la Santé La Source Lausanne",
+      "domain": "ecolelasource.ch",
+      "status": "ok",
+      "pagesFetched": 4,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "Interkantonale Hochschule für Heilpädagogik (HfH)",
+      "domain": "hfh.ch",
+      "status": "ok",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 17,
+      "note": null
+    },
+    {
+      "name": "Kalaidos University of Applied Sciences",
+      "domain": "kalaidos-fh.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 7,
+      "note": null
+    },
+    {
+      "name": "Les Roches",
+      "domain": "lesroches.edu",
+      "status": "partial",
+      "pagesFetched": 8,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 2,
+      "note": "https://lesroches.edu/?page_id=62469: HTTP 404"
+    },
+    {
+      "name": "Lucerne University of Applied Sciences and Arts (HSLU)",
+      "domain": "hslu.ch",
+      "status": "partial",
+      "pagesFetched": 2,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": "https://hslu.ch/de-ch/design-kunst: ReadTimeout"
+    },
+    {
+      "name": "Manufacture",
+      "domain": "manufacture.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 14,
+      "note": null
+    },
+    {
+      "name": "PHBern",
+      "domain": "phbern.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [
+        {
+          "kind": "next-link",
+          "url": "https://www.phbern.ch/weiterbildung/weiterbildungssuche?f%5B0%5D=wbk_otype%3Ah&page=1",
+          "status": "followable"
+        },
+        {
+          "kind": "next-link",
+          "url": "https://www.phbern.ch/weiterbildung/weiterbildungssuche?f%5B0%5D=angebotsgruppen%3A1714&f%5B1%5D=wbk_otype%3Ah&page=1",
+          "status": "followable"
+        },
+        {
+          "kind": "next-link",
+          "url": "https://www.phbern.ch/weiterbildung/weiterbildungssuche?f%5B0%5D=angebotsgruppen%3A1714&f%5B1%5D=angebotsgruppen%3A4863&f%5B2%5D=wbk_otype%3Ah&page=1",
+          "status": "followable"
+        }
+      ],
+      "robotsDenied": 3,
+      "programsFound": 5,
+      "note": "https://qmp.phbern.ch/File/CoreDownload?id=6323&filename=studienplan_pgs.pdf&langId=1: disallowed by robots.txt; https://qmp.phbern.ch/File/CoreDownload?id=7003&filename=Studienplan_CAS+PSL_2026.pdf&langId=1: disallowed by robots.txt; https://qmp.phbern.ch/File/CoreDownload?id=1932&filename=4.1+Studienreglement+Weiterbildungslehrg%C3%A4nge.pdf&langId=1: disallowed by robots.txt"
+    },
+    {
+      "name": "Pädagogische Hochschule Graubünden (PHGR)",
+      "domain": "phgr.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 3,
+      "note": null
+    },
+    {
+      "name": "Pädagogische Hochschule Luzern (PH Luzern)",
+      "domain": "phlu.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 35,
+      "note": null
+    },
+    {
+      "name": "Pädagogische Hochschule Schaffhausen (PHSH)",
+      "domain": "phsh.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 6,
+      "note": "https://phsh.ch/weiterbildung/weiterbildungsstudien-mas/cas/das/cas-schulleitung: HTTP 404"
+    },
+    {
+      "name": "Pädagogische Hochschule Schwyz (PHSZ)",
+      "domain": "phsz.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 17,
+      "note": null
+    },
+    {
+      "name": "Pädagogische Hochschule St. Gallen (PHSG)",
+      "domain": "phsg.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [
+        {
+          "kind": "next-link",
+          "url": "https://www.phsg.ch/de/weiterbildung/gesamtuebersicht?page=1",
+          "status": "followable"
+        }
+      ],
+      "robotsDenied": 0,
+      "programsFound": 8,
+      "note": null
+    },
+    {
+      "name": "Pädagogische Hochschule Thurgau (PHTG)",
+      "domain": "phtg.ch",
+      "status": "ok",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 12,
+      "note": null
+    },
+    {
+      "name": "Pädagogische Hochschule Zug PH Zug",
+      "domain": "zg.ch",
+      "status": "partial",
+      "pagesFetched": 11,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": "https://zg.ch/behoerden/direktion-fur-bildung-und-kultur/phzg: HTTP 404; https://zg.ch/behoerden/gemeinden/risch-rotkreuz/gemeinde/weiterbildung-risch: HTTP 404"
+    },
+    {
+      "name": "Pädagogische Hochschule Zürich (PH Zürich)",
+      "domain": "phzh.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 12,
+      "note": null
+    },
+    {
+      "name": "SBS Swiss Business School",
+      "domain": "sbs.edu",
+      "status": "partial",
+      "pagesFetched": 9,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": "https://sbs.edu/programs/executive-education/certificate-courses: HTTP 407; https://sbs.edu/programs/executive-education: HTTP 407; https://sbs.edu/programs/executive-education/professional-programs: HTTP 407"
+    },
+    {
+      "name": "Schweizerisches universitäres Institut für traditionelle chinesische Medizin SWISS TCM UNI",
+      "domain": "tcmuni.ch",
+      "status": "ok",
+      "pagesFetched": 4,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "SUPSI Landquart",
+      "domain": "supsi-landquart.ch",
+      "status": "ok",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 5,
+      "note": null
+    },
+    {
+      "name": "Swiss Federal University for Vocational Education and Training SFUVET",
+      "domain": "sfivet.swiss",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [
+        {
+          "kind": "next-link",
+          "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/presentations?page=1",
+          "status": "followable"
+        },
+        {
+          "kind": "next-link",
+          "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/presentations?page=2",
+          "status": "followable"
+        },
+        {
+          "kind": "next-link",
+          "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/presentations?page=3",
+          "status": "followable"
+        },
+        {
+          "kind": "next-link",
+          "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/presentations?page=4",
+          "status": "followable"
+        },
+        {
+          "kind": "next-link",
+          "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/presentations?page=5",
+          "status": "followable"
+        },
+        {
+          "kind": "next-link",
+          "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/presentations?page=6",
+          "status": "followable"
+        },
+        {
+          "kind": "next-link",
+          "url": "https://sfuvet.swiss/research/experience-and-lifelong-learning/projects?field_research_fields_target_id%5B0%5D=630&field_division_target_id%5B0%5D=614&page=1",
+          "status": "followable"
+        }
+      ],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "Swiss UMEF",
+      "domain": "swiss-umef.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "Theologische Hochschule Chur",
+      "domain": "thchur.ch",
+      "status": "ok",
+      "pagesFetched": 14,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 3,
+      "note": null
+    },
+    {
+      "name": "University of Applied Sciences and Arts Northwestern Switzerland (FHNW)",
+      "domain": "fhnw.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 27,
+      "note": "https://fhnw.ch/++api++/de/weiterbildung/psychologie/cas-psychologie-strategie-marketing-kommunikation/media/algorithmic-nudging-for-sustainability-in-e-commerce-conceptual-framework-and-research-agenda.pdf/@@inline-file/file: HTTP 404; https://fhnw.ch/++api++/de/psychologie/weiterbildung/angebot/weiterbildungen/cas-mentale-gesundheit-in-der-arbeitswelt/datenplan-cas-mentale-gesundheit-aps-fhnw.pdf/@@inline-file/file: HTTP 500; https://fhnw.ch/++api++/de/psychologie/weiterbildung/angebot/weiterbildungen/cas-mentale-gesundheit-in-der-arbeitswelt/dozierendenuebersicht_cas_mentale-gesundheit_kurz_fhnw.pdf/@@inline-file/file: HTTP 500; https://fhnw.ch/++api++/de/psychologie/weiterbildung/angebot/weiterbildungen/cas-mentale-gesundheit-in-der-arbeitswelt/fact-sheet-cas-mentale-gesundheit-arbeitswelt-aps-fhnw.pdf/@@inline-file/file: HTTP 500"
+    },
+    {
+      "name": "University of Applied Sciences and Arts of Southern Switzerland (SUPSI)",
+      "domain": "supsi.ch",
+      "status": "ok",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 14,
+      "paginationAdapters": [
+        "supsi-widget"
+      ],
+      "paginationFindings": [
+        {
+          "kind": "supsi-widget",
+          "url": "https://formazionecontinua.supsi.ch/it/catalogocorsi",
+          "status": "expanded",
+          "pagesFetched": 14
+        }
+      ],
+      "robotsDenied": 0,
+      "programsFound": 22,
+      "note": null
+    },
+    {
+      "name": "University of Basel",
+      "domain": "unibas.ch",
+      "status": "partial",
+      "pagesFetched": 3,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": "https://unibas.ch/    /de/Universitaet/KI-Initiative/KI-Weiterbildungsangebote.html: HTTP 404; https://unibas.ch/    /de/Universitaet/Leitung-Organisation/Gremien-Kommissionen/Kommissionen/Regenzkommissionen/Weiterbildungskommission.html: HTTP 404; https://unibas.ch/    /de/Weiterbildung.html: HTTP 404; https://unibas.ch/    /de/Weiterbildung/FAQ.html: HTTP 404"
+    },
+    {
+      "name": "University of Bern (UniBE)",
+      "domain": "unibe.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 8,
+      "note": "https://unibe.ch/weiterbildungsangebote/mas_general_management/index_ger.html: HTTP 404; https://unibe.ch/continuing_education_programs/cas_general_management_fuer_kmu_fach__und_fuehrungskraefte/index_eng.html: HTTP 404; https://unibe.ch/continuing_education_programs/cas_leadership/index_eng.html: HTTP 404; https://unibe.ch/continuing_education_programs/mas_in_general_management/index_eng.html: HTTP 404"
+    },
+    {
+      "name": "University of Fribourg",
+      "domain": "unifr.ch",
+      "status": "partial",
+      "pagesFetched": 11,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": "https://unifr.ch/formcont/fr/ : HTTP 403"
+    },
+    {
+      "name": "University of Geneva (UNIGE)",
+      "domain": "unige.ch",
+      "status": "ok",
+      "pagesFetched": 4,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "University of Lausanne (UNIL)",
+      "domain": "unil.ch",
+      "status": "partial",
+      "pagesFetched": 10,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": "https://editjahia.unil.ch/cms/edit/default/fr/sites/unil/home/menuinst/etudier/formation-continue.html: ReadTimeout; https://editjahia.unil.ch/cms/edit/default/en/sites/unil/home/menuinst/etudier/formation-continue.html: ReadTimeout"
+    },
+    {
+      "name": "University of Lucerne",
+      "domain": "unilu.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 15,
+      "note": null
+    },
+    {
+      "name": "University of Neuchâtel",
+      "domain": "unine.ch",
+      "status": "ok",
+      "pagesFetched": 10,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": null
+    },
+    {
+      "name": "University of St. Gallen (HSG)",
+      "domain": "unisg.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 2,
+      "note": null
+    },
+    {
+      "name": "University of Zurich (UZH)",
+      "domain": "unizh.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 0,
+      "note": "https://cas-labmed.uzh.ch/de.html: HTTP 503; https://weiterbildung.uzh.ch/de/wbmat/angebote/mni/[%=href%]: HTTP 401; https://weiterbildung.uzh.ch/de/wbmat/angebote/phil/[%=href%]: HTTP 401; https://weiterbildung.uzh.ch/de/wbmat/angebote/praktikum/[%=href%]: HTTP 401"
+    },
+    {
+      "name": "Università della Svizzera italiana (USI)",
+      "domain": "unisi.ch",
+      "status": "ok",
+      "pagesFetched": 12,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 4,
+      "note": null
+    },
+    {
+      "name": "Zurich University of Applied Sciences (ZHAW)",
+      "domain": "zhaw.ch",
+      "status": "partial",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 30,
+      "note": null
+    },
+    {
+      "name": "Zurich University of the Arts (ZHdK)",
+      "domain": "zhdk.ch",
+      "status": "ok",
+      "pagesFetched": 18,
+      "paginationPagesFetched": 0,
+      "paginationAdapters": [],
+      "paginationFindings": [],
+      "robotsDenied": 0,
+      "programsFound": 8,
+      "note": null
+    }
+  ]
+}
