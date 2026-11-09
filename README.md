@@ -1,6 +1,31 @@
 # FurtherStudy CH
 
-An Angular search page for CAS and MAS continuing-education programs at recognized Swiss higher-education institutions. A Python scraper discovers institution websites from the official swissuniversities list, crawls relevant continuing-education pages, and generates the JSON catalog used by the page.
+Find and explore CAS and MAS continuing-education programs across Swiss higher-education institutions in one searchable catalog.
+
+**[Open FurtherStudy CH →](https://raikilon.github.io/further-study/)**
+
+## What you can do
+
+- Search programs by keyword and narrow results by subject, institution, program type, teaching language, study format, location, and maximum fee.
+- Compare available details such as start dates, duration, tuition fees, ECTS credits, and whether a course is online, in person, or hybrid.
+- Follow each listing's **Official page** link to check requirements, confirm details, and apply directly with the institution.
+- See when the catalog was last scanned and inspect the coverage report.
+
+The catalog covers **CAS (Certificate of Advanced Studies)** and **MAS (Master of Advanced Studies)** programs. It helps you discover options across providers without searching every institution's website separately.
+
+## Screenshot
+
+[![FurtherStudy CH showing search filters and Swiss continuing-education program listings](docs/images/furtherstudy-ch.png)](https://raikilon.github.io/further-study/)
+
+*Screenshot taken on November 9, 2026. Listings and counts change as the catalog is refreshed.*
+
+## How it works
+
+A Python scraper starts from the official swissuniversities list of accredited institutions, visits their public continuing-education pages, and collects program information and source links. An Angular frontend loads the generated catalog as static JSON, so searching the site does not require a backend server or an account.
+
+GitHub Actions refreshes the catalog monthly and on manual runs, then builds and publishes the site to GitHub Pages. Pushes to `main` also build and deploy the site using the committed catalog.
+
+Coverage depends on what each institution publishes and permits the scraper to access. Some listings have missing fields, and the catalog is not exhaustive. Last-known entries are kept when a provider is temporarily unavailable; always confirm dates, fees, and availability on the official program page.
 
 ## Run locally
 
